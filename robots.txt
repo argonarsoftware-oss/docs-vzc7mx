@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-6ruozs.cuansalam.cfd/sitemap.xml
